@@ -1,0 +1,2 @@
+Validation PPL: 25.2
+Test BLEU: 8.83
